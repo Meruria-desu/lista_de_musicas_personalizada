@@ -1,2 +1,3 @@
-# lista_de_musicas_personalizada
-Lista de músicas personalizada feita em Python para console.
+# Lista de Músicas Personalizada
+Este projeto foi desenvolvido nos momentos finais do curso de Python básico da DiversificaDev, onde, inicialmente, se tratava de uma lista de tarefas, porém, após a realização de pequenas modificações, eu a transformei em uma lista de músicas personalizadas totalmente funcional através da linguagem Python, que pode ser executada via console.
+É possível adicionar títulos de músicas, exibir uma lista que revelará todos os títulos adicionados com enumeração e até remover as músicas da lista, seja por erro de digitação ou qualquer outro motivo. Dessa forma, você pode criar uma lista com as suas músicas favoritas, ou então, fazer uma lista das músicas que você precisa escutar, criar diferentes listas com base no gênero musical... As possibilidades podem ser diversas, desde que você use a sua imaginação!
